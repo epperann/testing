@@ -1,4 +1,4 @@
-﻿RegionName,id,ValueW,ValueM,Rent,CostsW,TaxesW
+﻿RegionName,id,Home Value w/ Mortgage,Home Value w/o Mortgage,Rent,CostsW,TaxesW
 Alabama,1,143700,198700,861,379,530
 Alaska,2,262300,323100,1259,619,2728
 Arizona,4,278000,360300,1253,440,1550
