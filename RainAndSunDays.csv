@@ -1,0 +1,51 @@
+Abbreviation,State,Precipitation,Sun
+AL,Alabama,107,213
+AZ,Arizona,44,286
+AR,Arkansas,95,217
+CA,California,53,258
+CO,Colorado,82,253
+CT,Connecticut,119,194
+DE,Delaware,116,202
+FL,Florida,115,237
+GA,Georgia,102,218
+ID,Idaho,99,197
+IL,Illinois,108,198
+IN,Indiana,118,186
+IA,Iowa,99,200
+KS,Kansas,78,230
+KY,Kentucky,120,189
+LA,Louisiana,102,216
+ME,Maine,131,192
+MD,Maryland,114,202
+MA,Massachusetts,125,197
+MI,Michigan,131,170
+MN,Minnesota,100,195
+MS,Mississippi,100,205
+MO,Missouri,97,206
+MT,Montana,88,189
+NE,Nebraska,80,223
+NV,Nevada,42,252
+NH,New Hampshire,133,198
+NJ,New Jersey,117,206
+NM,New Mexico,60,278
+NY,New York,139,165
+NC,North Carolina,112,213
+ND,North Dakota,79,201
+OH,Ohio,131,153
+OK,Oklahoma,75,234
+OR,Oregon,134,175
+PA,Pennsylvania,137,179
+RI,Rhode Island,124,202
+SC,South Carolina,103,216
+SD,South Dakota,80,213
+TN,Tennessee,116,207
+TX,Texas,74,235
+UT,Utah,75,238
+VT,Vermont,150,167
+VA,Virginia,115,205
+WA,Washington,137,165
+WV,West Virginia,145,164
+WI,Wisconsin,113,188
+WY,Wyoming,76,222
+AK,Alaska,143,121
+HI,Hawaii,166,240
